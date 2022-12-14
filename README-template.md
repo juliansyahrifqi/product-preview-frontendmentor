@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-iiE8INYiYu)
+- Live Site URL: [Live Site](https://product-preview-frontendmentor.vercel.app/)
+- Github URL: [Github](https://github.com/juliansyahrifqi/product-preview-frontendmentor)
 
 ## My process
 
